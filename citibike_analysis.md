@@ -2,7 +2,7 @@
 ## jmerkel_Module_14
 
 ### Analysis - Des Moines Population & Comparison
-The cities of Des Moines and NYC are vastly different in their industries, size, tourism, and infrastructure. [This presentation](https://public.tableau.com/profile/joe.merkel3071#!/vizhome/TableauBike/DesMoines) visualizes population data and provides insight in how the population differences may impact and provide unique opportunities for an expansion into Des Moines.
+The cities of Des Moines and NYC are vastly different in their industries, size, tourism, and infrastructure. [This presentation](https://public.tableau.com/shared/BZBJ57BBY?:display_count=y&:origin=viz_share_link) visualizes population data and provides insight in how the population differences may impact and provide unique opportunities for an expansion into Des Moines.
 
 In summary, Des Moines has a much smaller population and is built much less dense. Despite this, a couple metrics in Des Moines may point to success, those metrics being a large population growth, and a large portion of the population being under 18.
 
